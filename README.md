@@ -1,4 +1,11 @@
-# StudentComplaintManagementSystem
+#Added backend code for Student Complaint Management System using Spring Boot, MySQL, and REST APIs. 
+Includes:
+- DTO implementation
+- Entity mapping (Student → Complaint)
+- Validation with custom messages
+- Global exception handling
+
+#StudentComplaintManagementSystem
 Spring Boot Project to manage student complaints with status updates
 
 A Spring Boot project to manage student complaints with features like:
